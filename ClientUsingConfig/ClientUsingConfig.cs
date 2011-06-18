@@ -34,9 +34,7 @@ namespace ClientUsingConfig
         static void CallServerUsingConfig()
         {
             // http://generally.wordpress.com/2007/05/31/a-simple-remoting-example-in-c/
-            //TcpChannel tcpChannel = SimpleIT.Utils.RandomTcpChannel();
-            TcpChannel tcpChannel = null;
-            SimpleIT.Utils.RandomTcpChannel(out tcpChannel);
+            TcpChannel tcpChannel = SimpleIT.Utils.RandomTcpChannel();
 
             ChannelServices.RegisterChannel(tcpChannel, true);
 
