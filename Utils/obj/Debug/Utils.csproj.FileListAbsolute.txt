@@ -1,0 +1,5 @@
+C:\develop\projects\TestRemoting\Utils\bin\Debug\Utils.dll
+C:\develop\projects\TestRemoting\Utils\bin\Debug\Utils.pdb
+C:\develop\projects\TestRemoting\Utils\obj\Debug\ResolveAssemblyReference.cache
+C:\develop\projects\TestRemoting\Utils\obj\Debug\Utils.dll
+C:\develop\projects\TestRemoting\Utils\obj\Debug\Utils.pdb

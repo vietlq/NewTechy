@@ -1,0 +1,16 @@
+C:\develop\projects\TestRemoting\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\develop\projects\TestRemoting\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\develop\projects\TestRemoting\ConsoleApplication1\bin\Debug\RemoteHello.dll
+C:\develop\projects\TestRemoting\ConsoleApplication1\bin\Debug\RemoteHello.pdb
+C:\develop\projects\TestRemoting\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\develop\projects\TestRemoting\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\develop\projects\TestRemoting\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\develop\projects\TestRemoting\ConsoleApplication1\bin\Debug\RemoteHelloServer.exe.config
+C:\develop\projects\TestRemoting\RemoteHelloServer\bin\Debug\RemoteHelloServer.exe.config
+C:\develop\projects\TestRemoting\RemoteHelloServer\bin\Debug\RemoteHelloServer.exe
+C:\develop\projects\TestRemoting\RemoteHelloServer\bin\Debug\RemoteHelloServer.pdb
+C:\develop\projects\TestRemoting\RemoteHelloServer\bin\Debug\RemoteHello.dll
+C:\develop\projects\TestRemoting\RemoteHelloServer\bin\Debug\RemoteHello.pdb
+C:\develop\projects\TestRemoting\RemoteHelloServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\develop\projects\TestRemoting\RemoteHelloServer\obj\x86\Debug\RemoteHelloServer.exe
+C:\develop\projects\TestRemoting\RemoteHelloServer\obj\x86\Debug\RemoteHelloServer.pdb

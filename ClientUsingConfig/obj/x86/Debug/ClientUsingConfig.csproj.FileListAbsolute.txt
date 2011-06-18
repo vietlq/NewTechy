@@ -1,0 +1,10 @@
+C:\develop\projects\TestRemoting\ClientUsingConfig\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\develop\projects\TestRemoting\ClientUsingConfig\bin\Debug\ClientUsingConfig.exe
+C:\develop\projects\TestRemoting\ClientUsingConfig\bin\Debug\ClientUsingConfig.pdb
+C:\develop\projects\TestRemoting\ClientUsingConfig\bin\Debug\RemoteHello.dll
+C:\develop\projects\TestRemoting\ClientUsingConfig\bin\Debug\RemoteHello.pdb
+C:\develop\projects\TestRemoting\ClientUsingConfig\obj\x86\Debug\ClientUsingConfig.exe
+C:\develop\projects\TestRemoting\ClientUsingConfig\obj\x86\Debug\ClientUsingConfig.pdb
+C:\develop\projects\TestRemoting\ClientUsingConfig\bin\Debug\Utils.dll
+C:\develop\projects\TestRemoting\ClientUsingConfig\bin\Debug\Utils.pdb
+C:\develop\projects\TestRemoting\ClientUsingConfig\bin\Debug\ClientConfig.config

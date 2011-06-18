@@ -1,0 +1,5 @@
+C:\develop\projects\TestRemoting\RemoteHello\bin\Debug\RemoteHello.dll
+C:\develop\projects\TestRemoting\RemoteHello\bin\Debug\RemoteHello.pdb
+C:\develop\projects\TestRemoting\RemoteHello\obj\Debug\ResolveAssemblyReference.cache
+C:\develop\projects\TestRemoting\RemoteHello\obj\Debug\RemoteHello.dll
+C:\develop\projects\TestRemoting\RemoteHello\obj\Debug\RemoteHello.pdb

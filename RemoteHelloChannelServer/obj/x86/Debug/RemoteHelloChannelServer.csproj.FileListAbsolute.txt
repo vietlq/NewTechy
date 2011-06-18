@@ -1,0 +1,7 @@
+C:\develop\projects\TestRemoting\RemoteHelloChannelServer\bin\Debug\RemoteHelloChannelServer.exe
+C:\develop\projects\TestRemoting\RemoteHelloChannelServer\bin\Debug\RemoteHelloChannelServer.pdb
+C:\develop\projects\TestRemoting\RemoteHelloChannelServer\bin\Debug\RemoteHello.dll
+C:\develop\projects\TestRemoting\RemoteHelloChannelServer\bin\Debug\RemoteHello.pdb
+C:\develop\projects\TestRemoting\RemoteHelloChannelServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\develop\projects\TestRemoting\RemoteHelloChannelServer\obj\x86\Debug\RemoteHelloChannelServer.exe
+C:\develop\projects\TestRemoting\RemoteHelloChannelServer\obj\x86\Debug\RemoteHelloChannelServer.pdb
