@@ -8,6 +8,8 @@ import tempfile
 http://stackoverflow.com/questions/847850/cross-platform-way-of-getting-temp-directory-in-python
 
 tempfile.mkdtemp
+
+http://docs.python.org/library/zipfile.html
 """
 
 class Joom2Py(object):
