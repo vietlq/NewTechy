@@ -43,6 +43,8 @@ class Joom2Py(object):
         
         if self.isZip:
             self.unzip_template()
+        else:
+            pass
     
     def unzip_template(self):    
         import zipfile
