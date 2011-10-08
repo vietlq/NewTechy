@@ -10,13 +10,15 @@ http://stackoverflow.com/questions/847850/cross-platform-way-of-getting-temp-dir
 tempfile.mkdtemp
 
 http://docs.python.org/library/zipfile.html
+http://stackoverflow.com/questions/639962/unzipping-directory-structure-with-python
 """
 
 class Joom2Py(object):
     def __init__(self, templatePath, destDir = None):
         self.templatePath = templatePath
         self.destDir = destDir
-        self.tempDir = tempfile.mkdtemp
+        self.tempDir = tempfile.mkdtemp()
+        print "self.tempDir = %s" % self.tempDir
         
         if destDir == None:
             destDir = os.getcwd()
@@ -39,8 +41,14 @@ class Joom2Py(object):
     def process_template(self):
         self.verify_template()
     
-    def unzip_template(self):
-        pass
+    def unzip_template(self):    
+        import zipfile
+        tempZipFile = zipfile.ZipFile(self.templatePath)
+        for tempZipItem in tempZipFile.namelist():
+            if tempZipItem.endswith('/'):
+                os.makedirs(self.tempDir + '/' + tempZipItem)
+            else:
+                tempZipFile.extract(tempZipItem, self.tempDir)
     
     def verify_template(self):    
         self.isZip = self.is_zip()
