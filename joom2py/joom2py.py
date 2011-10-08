@@ -40,6 +40,9 @@ class Joom2Py(object):
     
     def process_template(self):
         self.verify_template()
+        
+        if self.isZip:
+            self.unzip_template()
     
     def unzip_template(self):    
         import zipfile
@@ -60,9 +63,6 @@ class Joom2Py(object):
         if not os.access(self.templatePath, os.R_OK):
             print "The template path is not readable!"
             return -2
-        
-        if self.isZip:
-            self.unzip_template()
     
     def move_static(self):
         pass
