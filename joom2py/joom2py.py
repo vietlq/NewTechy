@@ -45,6 +45,8 @@ class Joom2Py(object):
             self.unzip_template()
         else:
             pass
+        
+        self.clean_up()
     
     def unzip_template(self):    
         import zipfile
@@ -106,6 +108,9 @@ class Joom2Py(object):
         pass
     
     def write_template(self):
+        pass
+    
+    def clean_up(self):
         pass
 
 if __name__ == '__main__':
