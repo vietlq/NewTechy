@@ -127,6 +127,8 @@ sub random_removal
 		$numNeeded--;
 	}
 	
+	@availValues = grep { defined $_ } @availValues;
+	
 	return @availValues;
 }
 
@@ -135,8 +137,6 @@ sub main
 	my @availValues = random_removal(523, @values);
 	my $numNeeded = 20;
 	my @outValues;
-	
-	@availValues = grep { defined $_ } @availValues;
 	
 	#print join("\n", @availValues);
 	
